@@ -8,5 +8,5 @@ Code repository for the following paper:
 - DOI:
 
 Simulations and results visualisations for case studies 1 and 2 are performed and demonstrated in the jupyter notebooks which can be found in folder `case 1` and `case 2`, respectively.
-In case some notebooks are not accessible in the github, please use the following link: https://nbviewer.org/github/atishdixit16/rl_robust_owc/tree/main/
+In case some notebooks are not accessible in the GitHub, please use the following link: https://nbviewer.org/github/atishdixit16/rl_robust_owc/tree/main/
 
