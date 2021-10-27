@@ -1,7 +1,7 @@
 cff-version: 1.0.0
 authors:
-  - family-names: Dixit, ElSheikh
-    given-names: Atish, Ahmed
+  - family-names: Dixit
+    given-names: Atish
 title: "Model-Free reinforcement learning framework for robust optimal control of partially observable system"
 version: 1.0.0
 doi: 10.5281/xyz.1234
