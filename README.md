@@ -1,7 +1,7 @@
-# code repository: a model-free reinforcement learning framework for robust optimal control of partially observable system
+# code repository: Robust optimal control of partially observable systems using reinforcement learning
 Code repository for the following paper: 
 
-- Title: Model-Free reinforcement learning framework for robust optimal control of partially observable system
+- Title: Robust optimal control of partially observable systems using reinforcement learning
 - Authors: Atish Dixit, Ahmed H. ElSheikh
 - Affiilation: School of Energy, geoscience, infrastructure and society, Heriot-Watt University, Edinburgh, UK
 - Journal: 
