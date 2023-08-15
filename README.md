@@ -1,12 +1,18 @@
-# code repository: Robust optimal control of partially observable systems using reinforcement learning
-Code repository for the following paper: 
+## Code Repository: Robust Optimal Control of Partially Observable Systems Using Reinforcement Learning
 
-- Title: Robust optimal control of partially observable systems using reinforcement learning
-- Authors: Atish Dixit, Ahmed H. ElSheikh
-- Affiilation: School of Energy, geoscience, infrastructure and society, Heriot-Watt University, Edinburgh, UK
-- Journal: Engineering Applications of Artificial Intelligence
-- DOI: https://doi.org/10.1016/j.engappai.2022.105106
+Welcome to the code repository related to the paper titled:
 
-Simulations and results visualisations for case studies 1 and 2 are performed and demonstrated in the jupyter notebooks which can be found in folder `case 1` and `case 2`, respectively.
-In case some notebooks are not accessible in the GitHub, please use the following link: https://nbviewer.org/github/atishdixit16/rl_robust_owc/tree/main/
+- **Title**: Robust optimal control of partially observable systems using reinforcement learning
+- **Authors**: Atish Dixit, Ahmed H. ElSheikh
+- **Affiliation**: School of Energy, Geoscience, Infrastructure, and Society, Heriot-Watt University, Edinburgh, UK
+- **Journal**: Engineering Applications of Artificial Intelligence
+- **DOI**: [https://doi.org/10.1016/j.engappai.2022.105106](https://doi.org/10.1016/j.engappai.2022.105106)
 
+Within this repository, you will find simulations and result visualizations for two distinct case studies. These case studies are meticulously examined and demonstrated through Jupyter notebooks available in the respective folders:
+
+- `case 1`
+- `case 2`
+
+In the event that certain notebooks are not readily accessible on GitHub, we provide an alternative link for your convenience: [Notebook Viewer](https://nbviewer.org/github/atishdixit16/rl_robust_owc/tree/main/)
+
+Feel free to explore and engage with these resources to gain a deeper understanding of robust optimal control for partially observable systems, illuminated by the power of reinforcement learning.
